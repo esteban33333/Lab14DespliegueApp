@@ -1,0 +1,7 @@
+bin/
+obj/
+published/
+.idea/
+*.user
+*.suo
+.DS_Store
